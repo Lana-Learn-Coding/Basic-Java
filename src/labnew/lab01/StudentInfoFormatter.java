@@ -1,4 +1,4 @@
-package labfull.lab01;
+package labnew.lab01;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
